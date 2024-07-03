@@ -1,5 +1,5 @@
 # html-city-tourism
-Ex 1:
+## Ex 1:
 To Create the Table
 ## Code:
 ```
@@ -10,7 +10,10 @@ To Create the Table
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <table border="1">
+</head>
+
+<body>
+    <table border="1" cellspacing="4">
         <tbody>
             <tr>
                 <th colspan="2">My Day</th>
@@ -34,18 +37,18 @@ To Create the Table
                             </tr>
                             <tr>
                                 <td>
-                                    <img src=" C:\Users\DHANASHREE M\Desktop\New folder\img1.png " width="100 " height="100 ">
+                                    <img src=" C:\Users\DHANASHREE M\Desktop\New folder\img1.png " width="150 " height="150 ">
                                 </td>
                                 <td>
-                                    <img src="C:\Users\DHANASHREE M\Desktop\New folder\img2.png " width="100 " height="100 ">
+                                    <img src="C:\Users\DHANASHREE M\Desktop\New folder\img2.png " width="150 " height="150 ">
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    <img src=" C:\Users\DHANASHREE M\Desktop\New folder\img3.png " width="100 " height="100 ">
+                                    <img src=" C:\Users\DHANASHREE M\Desktop\New folder\img3.png " width="150 " height="150 ">
                                 </td>
                                 <td>
-                                    <img src=" C:\Users\DHANASHREE M\Desktop\New folder\img4.png " width="100 " height="100 ">
+                                    <img src=" C:\Users\DHANASHREE M\Desktop\New folder\img4.png " width="150 " height="150 ">
                                 </td>
                             </tr>
 
@@ -74,13 +77,14 @@ To Create the Table
             </tr>
         </tbody>
     </table>
-</head>
 
-<body>
+
 
 </body>
 
 </html>
 ```
 ## output:
-![Screenshot 2024-07-03 152556](https://github.com/Dhanashreemullaithasan/html-city-tourism/assets/94165415/2116ca34-2869-433d-989a-53b3365ac5ad)
+
+![Screenshot 2024-07-03 182933](https://github.com/Dhanashreemullaithasan/html-city-tourism/assets/94165415/729cc510-036b-4ffa-863a-57d9a13e11e8)
+
