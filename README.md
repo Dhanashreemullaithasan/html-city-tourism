@@ -206,7 +206,7 @@ To create a website for the Tourism Sites of a given city.
     </header>
 
     <nav>
-        <a href="index.html">Home</a>
+        <a href="home.html">Home</a>
         <a href="heritage.html">Heritage</a>
         <a href="hotel-booking.html">Hotel Booking</a>
         <a href="gallery.html">Gallery</a>
